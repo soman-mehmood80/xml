@@ -1,0 +1,87 @@
+<Hospital
+xmlns:D3="http//www.Doctors.com//Doctors"
+xmlns:D1="http//www.Doctors.com//Doctors"
+xmlns:D2="http//www.Doctors.com//Doctors"
+xmlns:D4="http//www.Doctors.com//Doctors"
+>
+<Management>
+<Doctors>
+<D1:Name ID="Doctor_1">DR.Adil</D1:Name>
+<D1:Father_Name>Rashid Ahmad</D1:Father_Name>
+<D1:Age>52</D1:Age>
+<D1:Contact_Number>92+313-1234567</D1:Contact_Number>
+<D1:Specialization>Specialist For Skin, Hair, Nail</D1:Specialization>
+<D1:Experience>2 Year</D1:Experience>
+</Doctors>
+
+<Doctors>
+<D2:Name ID="Doctor_2">DR.Aliza</D2:Name>
+<D2:Father_Name>Mustaq Ali</D2:Father_Name>
+<D2:Age>42</D2:Age>
+<D2:Contact_Number>92+313-1234567</D2:Contact_Number>
+<D2:Specialization>Specialist For Dermatologist</D2:Specialization>
+<D2:Experience>9 Month</D2:Experience>
+</Doctors>
+
+<Doctors>
+<D3:Name ID="Doctor_3">DR.Hamza</D3:Name>
+<D3:Father_Name>Bilal Abbas</D3:Father_Name>
+<D3:Age>39</D3:Age>
+<D3:Contact_Number>92+313-2314567</D3:Contact_Number>
+<D3:Specialization>Specialist For Cardiologists</D3:Specialization>
+<D3:Experience>4 Month</D3:Experience>
+</Doctors>
+
+
+<Doctors>
+<D4:Name ID="Doctor_4">DR.Abbas</D4:Name>
+<D4:Father_Name>Ali Haider</D4:Father_Name>
+<D4:Age>39</D4:Age>
+<D4:Contact_Number>92+313-231877</D4:Contact_Number>
+<D4:Specialization>Specialist For Family physician</D4:Specialization>
+<D4:Experience>4 Month</D4:Experience>
+</Doctors>
+
+
+<Patients_Data
+ xmlns:P1="http//www.Patients.com//Patients"
+xmlns:P2="http//www.Patients.com//Patients"
+xmlns:P3="http//www.Patients.com//Patients"
+xmlns:P4="http//www.Patients.com//Patients">
+<P1:Patients>
+<P1:Name>Ali</P1:Name>
+<P1:Age>8</P1:Age>
+<P1:Diagnosis>Fever</P1:Diagnosis>
+<P1:Doctor_2>DR.Aliza</P1:Doctor_2>
+</P1:Patients>
+
+
+<P2:Patients>
+<P2:Name>Bilal</P2:Name>
+<P2:Age>20</P2:Age>
+<P2:Diagnosis>Radiology diagnosis</P2:Diagnosis>
+<P2:Doctor_4>DR.Abbas</P2:Doctor_4>
+</P2:Patients>
+
+
+<P3:Patients>
+<P3:Name>Haider</P3:Name>
+<P3:Age>22</P3:Age>
+<P3:Diagnosis>Clinical diagnosis</P3:Diagnosis>
+<P3:Doctor_3>DR.Hamza</P3:Doctor_3>
+</P3:Patients>
+
+
+<P4:Patients>
+<P4:Name>Saim</P4:Name>
+<P4:Age>18</P4:Age>
+<P4:Diagnosis>Laboratory diagnosis</P4:Diagnosis>
+<P4:Doctor_1>DR.Adil</P4:Doctor_1>
+</P4:Patients>
+
+</Patients_Data>
+
+
+
+</Management>
+</Hospital>
