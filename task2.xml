@@ -1,0 +1,45 @@
+<Flight_Booking_system 
+xmlns:flt="http//www.Flight_Booking_system.com//Flight_Booking_system"
+xmlns:psg="http//www.passengerData.com//Flight_Booking_system">
+<Flight_Booking>
+<flt:Flight_Number Flight="Booked">206</flt:Flight_Number>
+<flt:Destination>USA</flt:Destination>
+<flt:Departure_Time>9.25:PM</flt:Departure_Time>
+<flt:Seat_Capacity>Frist Class A-1</flt:Seat_Capacity>
+
+<flt:Flight_Number Flight="Un-Booked">87</flt:Flight_Number>
+<flt:Destination>UAE</flt:Destination>
+<flt:Departure_Time>4.25:AM</flt:Departure_Time>
+<flt:Seat_Capacity>Economy C-3</flt:Seat_Capacity>
+
+<flt:Flight_Number Flight="Booked">302</flt:Flight_Number>
+<flt:Destination>Pakistan</flt:Destination>
+<flt:Departure_Time>12:Am</flt:Departure_Time>
+<flt:Seat_Capacity>Economy C-5</flt:Seat_Capacity>
+
+<flt:Flight_Number Flight="Booked">90</flt:Flight_Number>
+<flt:Destination>Islamabad</flt:Destination>
+<flt:Departure_Time>12:AM</flt:Departure_Time>
+<flt:Seat_Capacity>Economy D-3</flt:Seat_Capacity>
+
+</Flight_Booking>
+
+<Passengers>
+<psg:Name>Abdul Basit</psg:Name>
+<psg:PassPort_Number>040311</psg:PassPort_Number>
+<psg:Booked_Flight>Booked 206</psg:Booked_Flight>
+
+<psg:Name>Talha Khan</psg:Name>
+<psg:PassPort_Number>040311</psg:PassPort_Number>
+<psg:Booked_Flight>Un-Booked 87</psg:Booked_Flight>
+
+<psg:Name>Ali Raza</psg:Name>
+<psg:PassPort_Number>040311</psg:PassPort_Number>
+<psg:Booked_Flight>Booked 90</psg:Booked_Flight>
+
+<psg:Name>Sultan Raahi</psg:Name>
+<psg:PassPort_Number>040311</psg:PassPort_Number>
+<psg:Booked_Flight>Booked 302</psg:Booked_Flight>
+
+</Passengers>
+</Flight_Booking_system>
