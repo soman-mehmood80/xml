@@ -1,0 +1,25 @@
+{
+  "Products In Electornics":{
+    "Project":"LapTop",
+    "Price":1200,
+    "Stock":50,
+    "Rating":4.5
+  },
+  "Product Smartphone":{
+    "Product":"SmartPhone",
+    "Price":50000,
+    "Stock":20,
+    "Rating":2.7
+  },
+  "Product in Clothing":{
+    "Product":"T-Shirt",
+    "Price":3500,
+    "Stock":400,
+    "Rating":5.3
+  },
+  "Product Jeans":{
+    "Price":40,
+    "Stock":180,
+    "Rating":4.8
+  }
+}

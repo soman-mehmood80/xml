@@ -1,0 +1,22 @@
+{
+  "App Name":"Food Wala",
+  "Restaurant's Details":{
+    "Name":"Food Wala",
+    "Location":"Orangi Town Sector 10L Karachi",
+    "Rating":"8.5"
+  },
+    "Menu Itmes":{
+      "Dish Name":"Alu wali Biryani",
+      "Category":"Biryani",
+      "Price":100,
+      "Availability":"Ture"
+    },
+    "Customer's Order":{
+      "Order Id":108,
+      "Customer Name":"Soman",
+      "Items Ordered": 4,
+      "Total Price":400,
+      "Delivery":"No"
+    }
+
+}
