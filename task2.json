@@ -1,25 +1,30 @@
 {
-  "Products In Electornics":{
-    "Project":"LapTop",
-    "Price":1200,
-    "Stock":50,
-    "Rating":4.5
-  },
-  "Product Smartphone":{
-    "Product":"SmartPhone",
-    "Price":50000,
-    "Stock":20,
-    "Rating":2.7
-  },
-  "Product in Clothing":{
-    "Product":"T-Shirt",
-    "Price":3500,
-    "Stock":400,
-    "Rating":5.3
-  },
-  "Product Jeans":{
-    "Price":40,
-    "Stock":180,
-    "Rating":4.8
-  }
+  "Categories": "Electornics And Clothing",
+ "Products_In_Electornics":{
+  "Produst":"Laptop",
+  "Price":45000,
+  "Stocks":20,
+  "Rating":6.9
+ },
+  "Product_Smartphone":{
+  "Price":15000,
+  "Stock":10,
+  "Rating":8.1
+},
+"Product_In_Clothing":{
+"Product":"T shirt",
+"Price":1299,
+"Stock":30,
+"Rating":9.1
+},
+
+
+  "Product_In_Clothing_Bottom":{
+
+  
+  "Product":"Jeans",
+  "Price":2099,
+  "Stock":10,
+  "Rating":5.9
+}
 }

@@ -1,22 +1,22 @@
 {
-  "App Name":"Food Wala",
-  "Restaurant's Details":{
-    "Name":"Food Wala",
-    "Location":"Orangi Town Sector 10L Karachi",
-    "Rating":"8.5"
-  },
-    "Menu Itmes":{
-      "Dish Name":"Alu wali Biryani",
-      "Category":"Biryani",
-      "Price":100,
-      "Availability":"Ture"
-    },
-    "Customer's Order":{
-      "Order Id":108,
-      "Customer Name":"Soman",
-      "Items Ordered": 4,
-      "Total Price":400,
-      "Delivery":"No"
-    }
-
+  "Online Food Delivery App":{
+    "App Details":{
+      "Name":"Mozzam Biryani wala",
+      "Location":"orangi Town Sec 10L",
+      "Rating":7.5
+},
+"Items":{
+  "Dish_name":"Biryani",
+  "Category":"4",
+  "price":100,
+  "Availability":"Ture"
+},
+"Customer_Order":{
+  "Order_Id":101,
+  "Customer_Name":"Ali Hamza",
+  "Items_Ordered":4,
+  "Total_pirce":400,
+  "Delivery_Status":"No"
+}
+  }
 }
